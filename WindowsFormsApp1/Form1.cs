@@ -10,7 +10,9 @@ using System.Windows.Forms;
 
 //Este es un cambio0 que erstoy realizando y
 //se subira al repositorio
-Este cambio se esta subiendo desde el cliente GIT
+//Este cambio se esta subiendo desde el cliente GIT
+
+   // Otro cambio desde el Cliente GIT
 
 namespace WindowsFormsApp1
 {
