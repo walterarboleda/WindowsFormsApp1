@@ -7,8 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+
 //Este es un cambio0 que erstoy realizando y
 //se subira al repositorio
+Este cambio se esta subiendo desde el cliente GIT
 
 namespace WindowsFormsApp1
 {
